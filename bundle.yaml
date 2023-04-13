@@ -1,6 +1,6 @@
 apiVersion: "1"
-version: "3"
-id: ""
+version: "4"
+id: "cloudbees-ci-tjohns-thunder"
 description: "CloudBees CI configuration bundle for CloudBees CI Field Demo"
 plugins:
   - "plugins.yaml"
